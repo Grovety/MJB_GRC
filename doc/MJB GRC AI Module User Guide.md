@@ -8,7 +8,7 @@
 
 ### MJB Accelerometer 
 
-<img src="media/MJB_accel.jpg" width="400px">
+<img src="media/MJB_Accel.jpg" width="400px">
 
 Connect the accelerometer to Dev Board.
 
