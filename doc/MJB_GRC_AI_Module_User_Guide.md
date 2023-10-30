@@ -23,7 +23,7 @@ A pre-installed demo applications set to highlight **On-Device-Learning and Clas
 ## Operations
 
 ### Reset
-Put the battery in or press S1+S2 > 2 sec.
+Put the battery in or press **S1**+**S2** > 2 sec.
 **LED1-8** are blinking one by one	
 
 
