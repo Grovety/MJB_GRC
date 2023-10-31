@@ -60,6 +60,7 @@ Then the board switches to the Learning mode
 ### Step 1. Introduction
 Get familiar with buttons, LEDs, operations and sequence of actions.
 We recommend that you first practice with simple gestures, for example, Up-Down, Left-Right.
+<img src="media/hand_gesture.gif">
 
 
 ### Step 2. Let's go
