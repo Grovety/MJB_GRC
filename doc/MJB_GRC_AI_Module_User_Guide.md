@@ -34,6 +34,7 @@ Put the battery in or press **S1**+**S2** > 2 sec.
 **LED1-8** shows learned classes.
 
 
+
 ### Learning 
 Press and hold **S1**, make a gesture or tap a rhythm, then release:
 
@@ -42,6 +43,7 @@ Press and hold **S1**, make a gesture or tap a rhythm, then release:
 **LED1-8** shows learned classes. 
 
 **LEDn** is associated with the gesture or rhythm you're learning.
+
 
 
 ### Classification 
@@ -54,10 +56,12 @@ Press and hold **S2**, make a gesture or tap a rhythm, then release:
 **LED1-8** blinks 3 times if nothing is recognized
 
 
+
 ### To clear all Learning classes
 Press and hold **S1** and **S2** > 2 sec:
 
 **LED1-8** indicates the process. **D1** is on when completed.
+
 
 
 ### To clear the Learning class 
@@ -66,11 +70,13 @@ Press **S1** twice and hold:
 **LED1-8** is blinking the **last** class being deleted.   
 
 
+
 ### Step 1. Introduction
 Get familiar with buttons, LEDs, operations, and sequence of actions.
 We recommend first practice with simple gestures Up-Down, Left-Right.
 
 <img src="media/hand_gesture.gif" width = 100px>
+
 
 
 ### Step 2. Let's go
