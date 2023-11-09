@@ -16,7 +16,7 @@ Connect power.
 
 ## GRC AI SW Module  
 
-A pre-installed demo applications set to highlight **On-Device-Learning and Classification**: 
+Pre-installed demo applications for Training and Classification on-device:  
 * **Hand gestures**
 * **Rhythm patterns**
 
@@ -24,50 +24,59 @@ A pre-installed demo applications set to highlight **On-Device-Learning and Clas
 
 ### Reset
 Put the battery in or press **S1**+**S2** > 2 sec.
-**LED1-8** are blinking one by one	
+
+**LED1-8** are blinking
 
 
 ### Ready
 **D1-4** are green.
-**LED1-8** shows already learned classes.
+
+**LED1-8** shows learned classes.
 
 
 ### Learning 
-Press and hold **S1**, make a gesture or tap a rhythm, then release the button:
+Press and hold **S1**, make a gesture or tap a rhythm, then release:
+
 **D1-2** are blinking. 
-**LED1-8** shows already learned classes. 
+
+**LED1-8** shows learned classes. 
+
 **LEDn** is associated with the gesture or rhythm you're learning.
 
 
 ### Classification 
-Press and hold **S2**, make a gesture or tap a rhythm, then release the button: 
- 		**D3-4** are blinking  
- 	**LED1-8** shows the recognized class.
-**LED1-8** blinks 3 times in case if nothing was recognized
+Press and hold **S2**, make a gesture or tap a rhythm, then release: 
+
+**D3-4** are blinking  
+   
+**LED1-8** shows the recognized class.
+  
+**LED1-8** blinks 3 times if nothing is recognized
 
 
 ### To clear all Learning classes
-Press and hold **S1** and **S2** for more than 2 sec:
-**LED1-8** indicates the process. **D1** light is on when deletion is completed.
+Press and hold **S1** and **S2** > 2 sec:
+
+**LED1-8** indicates the process. **D1** is on when completed.
 
 
-### To clear the last Learning class 
+### To clear the Learning class 
 Press **S1** twice and hold:
-**LED1-8** blinking indicates the class being deleted.   
-Then the board switches to the Learning mode
+
+**LED1-8** is blinking the **last** class being deleted.   
 
 
 ### Step 1. Introduction
-Get familiar with buttons, LEDs, operations and sequence of actions.
-We recommend that you first practice with simple gestures, for example, Up-Down, Left-Right.
+Get familiar with buttons, LEDs, operations, and sequence of actions.
+We recommend first practice with simple gestures Up-Down, Left-Right.
 
 <img src="media/hand_gesture.gif" width = 100px>
 
 
 ### Step 2. Let's go
-Go further with more complicated gestures or rhythms patterns.
+Go further with more complicated patterns.
 
 
-**Tips**: To guarantee proper and successful recognition of hand gestures or rhythm patterns reproduce them as accurately as possible. 
+**Tips**: To guarantee successful recognition reproduce patterns accurately. 
 
 
