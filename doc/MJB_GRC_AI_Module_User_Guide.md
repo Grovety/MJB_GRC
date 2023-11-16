@@ -35,14 +35,19 @@ Put the battery in or press **S1**+**S2** > 2 sec.
 
 
 ### Learning 
-Press and hold **S1**, make a gesture or tap a rhythm, then release:
+Press and hold **S1**, make a **gesture**, then release    
+OR    
+Press **S1** and tap a **rhythm**    
 
 * **D1-2** are blinking. 
 * **LED1-8** shows learned classes. 
 * **LEDn** is associated with the gesture or rhythm you're learning.
 
 ### Classification 
-Press and hold **S2**, make a gesture or tap a rhythm, then release: 
+Press and hold **S2**, make a gesture, then release    
+OR    
+Press **S2** and tap a **rhythm**
+
 * **D3-4** are blinking  
 * **LED1-8** shows the recognized class.
 * **LED1-8** blinks 3 times if nothing is recognized
